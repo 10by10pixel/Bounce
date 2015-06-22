@@ -161,7 +161,7 @@ try:
     #Scoring#########
     score = 0
     
-    highscore = 0 #High score
+    highscore = 666 #High score
     consecutive = 0 #How many balls in a row did the user hit?
     strikes = 0 #How many times did user miss?
     maxstrikes = 5 #Maximum number of strikes
